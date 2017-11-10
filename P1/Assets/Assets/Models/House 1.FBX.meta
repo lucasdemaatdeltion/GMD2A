@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 46fba1c58d5a8f048b5db5e111d5d655
+timeCreated: 1509641396
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bottom_floor05
+    100002: Box00105
+    100004: Box206
+    100006: Box207
+    100008: //RootNode
+    100010: Roof_0105
+    100012: Roof_0205
+    100014: Staircase
+    100016: Stairs
+    100018: Support pillars05
+    100020: Top_floor05
+    100022: Walls02
+    100024: Window panels05
+    400000: Bottom_floor05
+    400002: Box00105
+    400004: Box206
+    400006: Box207
+    400008: //RootNode
+    400010: Roof_0105
+    400012: Roof_0205
+    400014: Staircase
+    400016: Stairs
+    400018: Support pillars05
+    400020: Top_floor05
+    400022: Walls02
+    400024: Window panels05
+    2300000: Bottom_floor05
+    2300002: Box00105
+    2300004: Box206
+    2300006: Box207
+    2300008: Roof_0105
+    2300010: Roof_0205
+    2300012: Staircase
+    2300014: Stairs
+    2300016: Support pillars05
+    2300018: Top_floor05
+    2300020: Walls02
+    2300022: Window panels05
+    3300000: Bottom_floor05
+    3300002: Box00105
+    3300004: Box206
+    3300006: Box207
+    3300008: Roof_0105
+    3300010: Roof_0205
+    3300012: Staircase
+    3300014: Stairs
+    3300016: Support pillars05
+    3300018: Top_floor05
+    3300020: Walls02
+    3300022: Window panels05
+    4300000: Walls02
+    4300002: Support pillars05
+    4300004: Window panels05
+    4300006: Roof_0205
+    4300008: Roof_0105
+    4300010: Bottom_floor05
+    4300012: Top_floor05
+    4300014: Stairs
+    4300016: Staircase
+    4300018: Box00105
+    4300020: Box206
+    4300022: Box207
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 74876bcbf9a24c446aafcf59f0ad22dd
+timeCreated: 1509707060
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Holder
+    100002: Wine bottle01
+    100004: Wine bottle02
+    100006: Wine bottle03
+    100008: Wine bottle04
+    100010: //RootNode
+    100012: Wine glass01
+    100014: Wine glass02
+    100016: Wine glass03
+    100018: Wine glass04
+    400000: Holder
+    400002: Wine bottle01
+    400004: Wine bottle02
+    400006: Wine bottle03
+    400008: Wine bottle04
+    400010: //RootNode
+    400012: Wine glass01
+    400014: Wine glass02
+    400016: Wine glass03
+    400018: Wine glass04
+    2300000: Holder
+    2300002: Wine bottle01
+    2300004: Wine bottle02
+    2300006: Wine bottle03
+    2300008: Wine bottle04
+    2300010: Wine glass01
+    2300012: Wine glass02
+    2300014: Wine glass03
+    2300016: Wine glass04
+    3300000: Holder
+    3300002: Wine bottle01
+    3300004: Wine bottle02
+    3300006: Wine bottle03
+    3300008: Wine bottle04
+    3300010: Wine glass01
+    3300012: Wine glass02
+    3300014: Wine glass03
+    3300016: Wine glass04
+    4300000: Wine bottle01
+    4300002: Wine bottle02
+    4300004: Wine bottle03
+    4300006: Wine bottle04
+    4300008: Holder
+    4300010: Wine glass04
+    4300012: Wine glass03
+    4300014: Wine glass02
+    4300016: Wine glass01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
